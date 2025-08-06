@@ -72,7 +72,3 @@ For questions, suggestions, or collaborations on this or **other educational Pyt
 📧 **luca.linari@gmail.com**
 
 ---
-
-
----
-
