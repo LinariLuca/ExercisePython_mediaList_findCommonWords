@@ -35,14 +35,6 @@ No external libraries are required. The script uses only standard Python feature
 
 ---
 
-## 📬 Contact & Collaboration
-
-For questions, suggestions, or collaborations on this or **other educational Python projects**, feel free to reach out:
-
-📧 **luca.linari@gmail.com**
-
----
-
 ## 💡 How to Run 
 
 1. Clone this repository: [https://github.com/yourusername/your-repo-name.git](https://github.com/LinariLuca/ExercisePython_mediaList_findCommonWords.git)
@@ -70,6 +62,17 @@ It’s meant to help understand core concepts of:
 
 This project is open-source and available under the **MIT License**.  
 Feel free to use, modify, and distribute it for educational purposes or learning projects.
+
+---
+
+## 📬 Contact & Collaboration
+
+For questions, suggestions, or collaborations on this or **other educational Python projects**, feel free to reach out:
+
+📧 **luca.linari@gmail.com**
+
+---
+
 
 ---
 
