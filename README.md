@@ -37,7 +37,7 @@ No external libraries are required. The script uses only standard Python feature
 
 ## 💡 How to Run 
 
-1. Clone this repository: [https://github.com/yourusername/your-repo-name.git](https://github.com/LinariLuca/ExercisePython_mediaList_findCommonWords.git)
+1. Clone this repository: https://github.com/LinariLuca/ExercisePython_mediaList_findCommonWords.git
 
 2. Navigate into the project folder: cd your-repo-name
 
